@@ -1,1 +1,3 @@
 # short_squeeze
+
+initalizing...
